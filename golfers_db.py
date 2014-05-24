@@ -1,7 +1,3 @@
-import unittest
-import shutil, os
-from itertools import tee, izip
-
 class ScoreStore:
 
   def __init__(self, file_path):
